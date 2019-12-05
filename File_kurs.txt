@@ -1,0 +1,6 @@
+type=студент name=Вася surname=Пупкин birthday=01.02.2000 money=1000 facultet=AAA curs=1
+type=студент name=Петя surname=Шварц birthday=01.07.2000 money=1200 facultet=AAA curs=1
+type=студент name=Клава surname=Дрыщ birthday=10.10.1999 money=1200 facultet=ВВВ curs=2
+type=преподаватель name=Огнеслав surname=Квазимода birthday=11.11.1960 money=10000 facultet=AAA work=5
+type=преподаватель name=Вазген surname=Швилли birthday=11.11.1950 money=10000 facultet=AAA work=10
+type=преподаватель name=Марфа surname=Копытенко birthday=11.11.1970 money=10000 facultet=AAA work=30
